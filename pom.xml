@@ -16,6 +16,15 @@
         <version>6</version>
     </parent>
     <inceptionYear>2011</inceptionYear>
+    <issueManagement>
+        <url>https://github.com/nikore/JAML/issues</url>
+        <system>GitHub Issues</system>
+    </issueManagement>
+    <scm>
+        <url>https://github.com/nikore/JAML</url>
+        <connection>scm:git:git://github.com/nikore/jaml.git</connection>
+        <developerConnection>scm:git:git@github.com:nikore/jaml.git</developerConnection>
+    </scm>
     <licenses>
         <license>
             <name>Apache License, Version 2.0</name>
